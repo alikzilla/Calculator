@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-family: 'Tektur', cursive;
+    font-size: calc(16px + 0.5vw);
+}
+
+li, ul, a {
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    height: 80px;
+    padding: 0 60px;
+    background-color: #000000;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.nav-items {
+    display: flex;
+    gap: 20px;
+}
+
+main{
+    height: calc(100vh - 160px);
+    display: flex;
+    align-items: center;
+    justify-content: center;;
+    color: black;
+}
+
+.calculator{
+    background-color: gray;
+    width: 450px;
+    height: 70vh;
+    display: grid;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px,
+    			rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+
+.display{
+    color: black;
+    font-family: 'LED Digital 7', sans-serif;
+    font-size: 30px;
+    text-align: right;
+    width: 95%;
+    background-color: orange;
+    box-shadow: darkorange 0px 1px 4px,
+    			darkorange 0px 0px 0px 3px;
+    padding: 0 10px 0 10px;
+    margin-bottom: 10px;
+}
+
+.rows{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttons{
+    width: 25%;
+    color: #4FC0D0;
+    font-size: 40px;
+    background-color: #4E4FEB;
+    border-color: gray;
+}
+
+.buttons:hover{
+    color: #068FFF;
+    background-color: #4A55A2;
+}
+
+.zero{
+    width: 50%;
+}
+
+footer{
+    bottom: 0;
+    background-color: #000000;
+    padding: 0 60px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.links{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
