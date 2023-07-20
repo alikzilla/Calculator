@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="523f04d7-f9b6-4cf0-b26a-5834d4e1034b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="523f04d7-f9b6-4cf0-b26a-5834d4e1034b" name="Changes" comment="Optimized for phones" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,11 +44,43 @@
       <updated>1689832772232</updated>
       <workItem from="1689832773296" duration="3000" />
       <workItem from="1689841421238" duration="6000" />
-      <workItem from="1689842964676" duration="778000" />
+      <workItem from="1689842964676" duration="1348000" />
     </task>
+    <task id="LOCAL-00001" summary="Optimized for phones">
+      <option name="closed" value="true" />
+      <created>1689843865814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689843865814</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Optimized for phones">
+      <option name="closed" value="true" />
+      <created>1689844067548</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689844067548</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Optimized for phones" />
+    <option name="LAST_COMMIT_MESSAGE" value="Optimized for phones" />
   </component>
 </project>
